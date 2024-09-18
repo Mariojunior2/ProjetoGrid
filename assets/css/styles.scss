@@ -1,0 +1,11 @@
+@import "variables";
+@import "layout";
+@import "tipografia";
+@import "reset";
+@import "grid";
+
+div {
+    border: 5px solid  rgba(11, 70, 197, 0.527);
+    box-sizing: border-box;
+    background-color: rgba(0, 247, 255, 0.336);
+}
